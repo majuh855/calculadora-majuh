@@ -1,1 +1,1 @@
- https://majuh855.github.io/calculadora-majuh/
+https://majuh855.github.io/calculadora-majuh/
